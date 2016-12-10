@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file>index.html</file>
+    <file>css/lightbox.css</file>
+    <file>css/style.css</file>
+    <file>js/CSS3DRenderer.js</file>
+    <file>js/jquery-1.10.2.min.js</file>
+    <file>js/lightbox-2.6.min.js</file>
+    <file>js/three.min.js</file>
+    <file>js/TrackballControls.js</file>
+    <file>js/tween.min.js</file>
+    <file>img/close.png</file>
+    <file>img/loading.gif</file>
+    <file>img/next.png</file>
+    <file>img/prev.png</file>
+  </qresource>
+</RCC>
